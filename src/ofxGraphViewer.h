@@ -1,9 +1,8 @@
 //
-//  dataContainer.h
-//  9DOF_test
+//  ofxGraphViewer.h
 //
-//  Created by 石橋 素 on 12/04/05.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+//  like Max/MSP multislider object
 //
 
 #ifndef _OFX_GraphViewer_h
